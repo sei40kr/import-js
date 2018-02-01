@@ -67,6 +67,7 @@
     "babel-plugin-syntax-flow": "^6.18.0",
     "babylon": "^6.18.0",
     "commander": "^2.11.0",
+    "cosmiconfig": "^4.0.0",
     "fb-watchman": "^2.0.0",
     "glob": "^7.1.2",
     "globals": "^10.1.0",
